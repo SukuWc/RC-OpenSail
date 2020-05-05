@@ -94,4 +94,158 @@ Text Label 2100 1300 3    50   ~ 0
 RED
 Text Label 2200 1300 3    50   ~ 0
 BLACK
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5EB18FB6
+P 2100 2400
+F 0 "H1" H 2200 2446 50  0000 L CNN
+F 1 "MountingHole" H 2200 2355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 2100 2400 50  0001 C CNN
+F 3 "~" H 2100 2400 50  0001 C CNN
+	1    2100 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5EB19A3F
+P 2100 2600
+F 0 "H2" H 2200 2646 50  0000 L CNN
+F 1 "MountingHole" H 2200 2555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 2100 2600 50  0001 C CNN
+F 3 "~" H 2100 2600 50  0001 C CNN
+	1    2100 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5EB19C90
+P 2100 2800
+F 0 "H3" H 2200 2846 50  0000 L CNN
+F 1 "MountingHole" H 2200 2755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 2100 2800 50  0001 C CNN
+F 3 "~" H 2100 2800 50  0001 C CNN
+	1    2100 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5EB19E16
+P 2100 3000
+F 0 "H4" H 2200 3046 50  0000 L CNN
+F 1 "MountingHole" H 2200 2955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 2100 3000 50  0001 C CNN
+F 3 "~" H 2100 3000 50  0001 C CNN
+	1    2100 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 5EB19FB3
+P 2100 3200
+F 0 "H5" H 2200 3246 50  0000 L CNN
+F 1 "MountingHole" H 2200 3155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 2100 3200 50  0001 C CNN
+F 3 "~" H 2100 3200 50  0001 C CNN
+	1    2100 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 5EB1A140
+P 2100 3400
+F 0 "H6" H 2200 3446 50  0000 L CNN
+F 1 "MountingHole" H 2200 3355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 2100 3400 50  0001 C CNN
+F 3 "~" H 2100 3400 50  0001 C CNN
+	1    2100 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 5EB1A278
+P 2100 3600
+F 0 "H7" H 2200 3646 50  0000 L CNN
+F 1 "MountingHole" H 2200 3555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 2100 3600 50  0001 C CNN
+F 3 "~" H 2100 3600 50  0001 C CNN
+	1    2100 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 5EB1A42F
+P 2100 3800
+F 0 "H8" H 2200 3846 50  0000 L CNN
+F 1 "MountingHole" H 2200 3755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 2100 3800 50  0001 C CNN
+F 3 "~" H 2100 3800 50  0001 C CNN
+	1    2100 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H9
+U 1 1 5EB1B359
+P 2100 4200
+F 0 "H9" H 2200 4246 50  0000 L CNN
+F 1 "MountingHole" H 2200 4155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 2100 4200 50  0001 C CNN
+F 3 "~" H 2100 4200 50  0001 C CNN
+	1    2100 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H10
+U 1 1 5EB1B4E9
+P 2100 4400
+F 0 "H10" H 2200 4446 50  0000 L CNN
+F 1 "MountingHole" H 2200 4355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 2100 4400 50  0001 C CNN
+F 3 "~" H 2100 4400 50  0001 C CNN
+	1    2100 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H11
+U 1 1 5EB1B66F
+P 2100 4600
+F 0 "H11" H 2200 4646 50  0000 L CNN
+F 1 "MountingHole" H 2200 4555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 2100 4600 50  0001 C CNN
+F 3 "~" H 2100 4600 50  0001 C CNN
+	1    2100 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H12
+U 1 1 5EB1B842
+P 2100 4800
+F 0 "H12" H 2200 4846 50  0000 L CNN
+F 1 "MountingHole" H 2200 4755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 2100 4800 50  0001 C CNN
+F 3 "~" H 2100 4800 50  0001 C CNN
+	1    2100 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H13
+U 1 1 5EB1B9AA
+P 2100 5000
+F 0 "H13" H 2200 5046 50  0000 L CNN
+F 1 "MountingHole" H 2200 4955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 2100 5000 50  0001 C CNN
+F 3 "~" H 2100 5000 50  0001 C CNN
+	1    2100 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H14
+U 1 1 5EB1BB63
+P 2100 5200
+F 0 "H14" H 2200 5246 50  0000 L CNN
+F 1 "MountingHole" H 2200 5155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 2100 5200 50  0001 C CNN
+F 3 "~" H 2100 5200 50  0001 C CNN
+	1    2100 5200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
